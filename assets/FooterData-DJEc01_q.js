@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{Q as e,v as s}from"./index-CpvL_8wg.js";const a={},c={class:"bg-orange q-pa-md"};function r(t,n){return s(),e("div",c,"asascas")}const f=o(a,[["render",r]]);export{f as F};
